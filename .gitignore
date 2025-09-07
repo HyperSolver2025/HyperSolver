@@ -1,0 +1,50 @@
+# Virtual environments
+venv/
+myenv/
+myenv3.10/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Results and models
+results/
+models/
+*.pt
+*.pth
+*.hdf5
+
+# Logs and temporary files
+*.log
+temp_*
+*.tmp
+
+# OS files
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# LaTeX auxiliary files
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# IDE files
+.idea/
+*.iml
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
